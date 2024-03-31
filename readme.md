@@ -1,7 +1,7 @@
 Hi 👋 My name is Sirathi SIhapark
 =================================
 
-Backend Developer
+Frontend Developer
 -----------------
 
 * 🌍  I'm based in Khon Kaen, Thailand.
